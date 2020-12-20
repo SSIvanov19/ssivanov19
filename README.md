@@ -2,7 +2,7 @@
 
 I am student in @codingburgas 🎓. I am currently studying C++, C# (for Unity 🎮) and JS 💡. I love to explore new technologies and use them to solve real-life problems 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on some games 🕹️.
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ssivanov19/ssivanov19/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/SSIvanov19/ssivanov19/master/gifts/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
@@ -45,8 +45,7 @@ I am student in @codingburgas 🎓. I am currently studying C++, C# (for Unity �
  <details>	
   <summary><b>🎵 Spotify things</b></summary>
 
-  [![Spotify](https://novatorem-drab-nine.vercel.app/api/spotify)]
-  <!--(https://open.spotify.com/user/USER_NAME)-->
+  ![Spotify](https://novatorem-green-omega.vercel.app/api/spotify)
 </details>
 
 #

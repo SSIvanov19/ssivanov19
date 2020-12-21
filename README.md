@@ -30,16 +30,15 @@ I am student in @codingburgas 🎓. I am currently studying C++, C# (for Unity �
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssivanov19&show_icons=true&theme=radical&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssivanov19&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true"/>
+![Grade](https://github-readme-stats.vercel.app/api?username=ssivanov19&show_icons=true&theme=radical&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssivanov19&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
 </details>
 
 <details>
   <summary><b>🧑‍🚀 Repositories</b></summary>
 
-![Math Games 2020](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=math-games-2020)
-
-![Math Games 2020](https://github-readme-stats.vercel.app/api/pin/?username=IDIliev18&repo=FinalProject-Unity)
+[![Math Games 2020](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=math-games-2020)](https://github.com/SSIvanov19/math-games-2020)
+[![Final FinalProject-Unity](https://github-readme-stats.vercel.app/api/pin/?username=IDIliev18&repo=FinalProject-Unity)](https://github.com/IDIliev18/FinalProject-Unity)
 </details>
  
  <details>	

@@ -7,7 +7,7 @@ I am student in @codingburgas 🎓. I am currently studying C++, C# (for Unity �
 ### Talking about Personal Stuffs:
 
 - 🚀 &nbsp; I’m currently learning Unity, C++ and JS.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ssivanov19).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SSIvanov19?tab=repositories).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: SSIvanov19@codingburgas.bg
 

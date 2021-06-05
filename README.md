@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Stoyan Ivanov!](https://www.youtube.com/watch?v=BplsGX5eLLo)
+## Hey 👋, I'm [Stoyan Ivanov!](https://github.com/SSIvanov19/)
 
 I am student in @codingburgas 🎓. I am currently studying C++, C# (for Unity 🎮) and JS 💡. I love to explore new technologies and use them to solve real-life problems 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on some games 🕹️.
 
@@ -7,22 +7,22 @@ I am student in @codingburgas 🎓. I am currently studying C++, C# (for Unity �
 ### Talking about Personal Stuffs:
 
 - 🚀 &nbsp; I’m currently learning Unity, C++ and JS.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://www.youtube.com/watch?v=4ig3VsDeBVo).
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Djenascript.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SSIvanov19?tab=repositories).
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: SSIvanov19@codingburgas.bg
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love Djena, new tech stack and building cool stuffs.
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 ### Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://th.bing.com/th/id/Rc6cdaffc86f2913b145a3adf2d1dc6af?rik=wQ8aRziv298bwg&pid=ImgRaw" alt="nodejs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/unity/unity.png" alt="unity"></code>
-<code><img height="27" src="https://th.bing.com/th/id/Ra597a9cf4062dd240799eff61b38177e?rik=ujhrY8BAV%2fK9qg&pid=ImgRaw" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 ### Projects and Dev Stuffs:
@@ -51,6 +51,6 @@ I am student in @codingburgas 🎓. I am currently studying C++, C# (for Unity �
 
 <div align="center">
 
-### Show some DJENA by starring some of the repositories!
+### Show some ❤️ by starring some of the repositories!
 
 </div>

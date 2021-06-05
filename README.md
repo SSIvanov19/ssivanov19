@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Stoyan Ivanov!](https://github.com/SSIvanov19/)
+## Hey 👋, I'm [Stoyan Ivanov!](https://www.youtube.com/watch?v=BplsGX5eLLo)
 
 I am student in @codingburgas 🎓. I am currently studying C++, C# (for Unity 🎮) and JS 💡. I love to explore new technologies and use them to solve real-life problems 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on some games 🕹️.
 

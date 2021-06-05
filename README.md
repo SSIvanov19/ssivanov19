@@ -22,7 +22,7 @@ I am student in @codingburgas ðŸŽ“. I am currently studying C++, C# (for Unity ð
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://th.bing.com/th/id/Rc6cdaffc86f2913b145a3adf2d1dc6af?rik=wQ8aRziv298bwg&pid=ImgRaw" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/unity/unity.png" alt="unity"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
+<code><img height="27" src="https://th.bing.com/th/id/Ra597a9cf4062dd240799eff61b38177e?rik=ujhrY8BAV%2fK9qg&pid=ImgRaw" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 ### Projects and Dev Stuffs:

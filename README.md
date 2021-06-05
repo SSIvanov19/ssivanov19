@@ -51,6 +51,6 @@ I am student in @codingburgas 🎓. I am currently studying C++, C# (for Unity �
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some DJENA by starring some of the repositories!
 
 </div>

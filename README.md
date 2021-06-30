@@ -39,6 +39,8 @@ I am student in @codingburgas ðŸŽ“. I am currently studying C++, C# (for Unity ð
 
 [![Math Games 2020](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=math-games-2020)](https://github.com/SSIvanov19/math-games-2020)
 [![Final FinalProject-Unity](https://github-readme-stats.vercel.app/api/pin/?username=IDIliev18&repo=FinalProject-Unity)](https://github.com/IDIliev18/FinalProject-Unity)
+  [![Fire department 2021](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=fire-department-2021)](https://github.com/SSIvanov19/fire-department-2021)
+[![Chupacabra](https://github-readme-stats.vercel.app/api/pin/?username=idiliev18&repo=chupacabra)](https://github.com/idiliev18/chupacabra)
 </details>
  
  <details>	

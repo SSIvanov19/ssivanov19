@@ -11,3 +11,5 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: stoyan-ivanov.e7ad7482

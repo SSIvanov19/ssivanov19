@@ -42,8 +42,12 @@ I am student in @codingburgas 🎓. I am currently studying C++, C# (for Unity �
   [![Fire department 2021](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=fire-department-2021)](https://github.com/SSIvanov19/fire-department-2021)
 [![Chupacabra](https://github-readme-stats.vercel.app/api/pin/?username=idiliev18&repo=chupacabra)](https://github.com/idiliev18/chupacabra)
 </details>
- 
- <details>	
+<details>
+  <summary><b>📚 Badges</b></summary>
+  <!--START_SECTION:badges-->
+  <!--END_SECTION:badges-->
+</details>  
+<details>	
   <summary><b>🎵 Spotify things</b></summary>
 
   ![Spotify](https://novatorem-green-omega.vercel.app/api/spotify)

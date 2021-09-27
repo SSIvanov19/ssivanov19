@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Stoyan Ivanov!](https://github.com/SSIvanov19/)
 
-I am student in [@codingburgas](https://github.com/codingburgas) 🎓, who is currently studying C++, C# (for Unity 🎮) and JS 💡. I love to explore new technologies and use them to solve real-life problems 👨🏻‍💻. Currently into Web Development 🕸️ and working on some games 🕹️.
+I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is currently studying C++, C# (for Unity 🎮) and JS 💡. I love to explore new technologies and use them to solve real-life problems 👨🏻‍💻. Currently into Web Development 🕸️ and working on some games 🕹️.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/SSIvanov19/ssivanov19/master/gifts/coder.gif" />
 

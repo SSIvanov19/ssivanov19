@@ -40,7 +40,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 <details>
   <summary><b>🧑‍🚀 Repositories</b></summary>
 
-[![Maze Game 2021](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=maze-games-2021)](https://github.com/SSIvanov19/math-game-2020)
+[![Maze Game 2021](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=maze-game-2021)](https://github.com/SSIvanov19/maze-game-2021)
 [![Final FinalProject-Unity](https://github-readme-stats.vercel.app/api/pin/?username=IDIliev18&repo=FinalProject-Unity)](https://github.com/IDIliev18/FinalProject-Unity)
   [![Fire department 2021](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=fire-department-2021)](https://github.com/SSIvanov19/fire-department-2021)
 [![Chupacabra](https://github-readme-stats.vercel.app/api/pin/?username=idiliev18&repo=chupacabra)](https://github.com/idiliev18/chupacabra)

@@ -21,6 +21,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" alt="azure"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/unity/unity.png" alt="unity"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
@@ -42,19 +43,12 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 
 [![Maze Game 2021](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=maze-game-2021)](https://github.com/SSIvanov19/maze-game-2021)
 [![Final FinalProject-Unity](https://github-readme-stats.vercel.app/api/pin/?username=IDIliev18&repo=FinalProject-Unity)](https://github.com/IDIliev18/FinalProject-Unity)
-  [![Fire department 2021](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=fire-department-2021)](https://github.com/SSIvanov19/fire-department-2021)
+[![Fire department 2021](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=fire-department-2021)](https://github.com/SSIvanov19/fire-department-2021)
 [![Chupacabra](https://github-readme-stats.vercel.app/api/pin/?username=idiliev18&repo=chupacabra)](https://github.com/idiliev18/chupacabra)
 </details>
 <details>
   <summary><b>📚 Badges</b></summary>
   <!--START_SECTION:badges-->
-
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png)](http://www.credly.com/badges/a893b7fe-2ae4-454c-b33c-e90947b33b28 "Microsoft Certified: Azure Fundamentals")
-[![MTA: Introduction to Programming Using Python - Certified 2021](https://images.credly.com/size/110x110/images/ebfba101-5b78-49b6-903a-ac9ad518fe8a/MTA-Introduction_to_Programming_Using_Python-600x600.png)](http://www.credly.com/badges/b5ba2843-1fbd-481c-ad24-29012459b5ba "MTA: Introduction to Programming Using Python - Certified 2021")
-[![Microsoft Excel (Office 2016)](https://images.credly.com/size/110x110/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png)](http://www.credly.com/badges/41931c0f-5be8-4e13-b3fa-82f0defd1957 "Microsoft Excel (Office 2016)")
-[![MTA: Introduction to Programming Using HTML and CSS - Certified 2021](https://images.credly.com/size/110x110/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png)](http://www.credly.com/badges/50443da3-91dc-4cda-b602-2a9db3d76249 "MTA: Introduction to Programming Using HTML and CSS - Certified 2021")
-[![Microsoft Word (Office 2016)](https://images.credly.com/size/110x110/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png)](http://www.credly.com/badges/e6d36159-6402-4420-ac42-45407b356dda "Microsoft Word (Office 2016)")
-[![MTA: Introduction to Programming Using JavaScript - Certified 2021](https://images.credly.com/size/110x110/images/16840ea3-5c9a-4599-853e-7e15bac7748e/MTA-Introduction_to_Programming_Using_JavaScript-600x600.png)](http://www.credly.com/badges/a6f166f2-d8e6-4890-9686-3e2721bc1123 "MTA: Introduction to Programming Using JavaScript - Certified 2021")
 <!--END_SECTION:badges-->
 </details>  
 <details>	

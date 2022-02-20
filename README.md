@@ -34,6 +34,9 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 ![Grade](https://github-readme-stats.vercel.app/api?username=ssivanov19&show_icons=true&theme=radical&count_private=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssivanov19&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
  <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 </details>
 <details>

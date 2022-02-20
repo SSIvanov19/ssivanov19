@@ -34,9 +34,82 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 ![Grade](https://github-readme-stats.vercel.app/api?username=ssivanov19&show_icons=true&theme=radical&count_private=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssivanov19&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 109 Contributions in the Year 2022
+ > 
+> 📦 866.4 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 16 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    83 commits     █████░░░░░░░░░░░░░░░░░░░░   21.9% 
+🌆 Daytime    110 commits    ███████░░░░░░░░░░░░░░░░░░   29.02% 
+🌃 Evening    161 commits    ██████████░░░░░░░░░░░░░░░   42.48% 
+🌙 Night      25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.6%
+
 ```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       73 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.26% 
+Tuesday      42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
+Wednesday    60 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.83% 
+Thursday     29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.65% 
+Friday       62 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
+Saturday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+Sunday       69 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.21%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Kiev
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      9 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
+HTML                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   23.33% 
+C#                       5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Dockerfile               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/SSIvanov19/SSIvanov19/main/charts/bar_graph.png) 
+
+
+ Last Updated on 20/02/2022 19:04:22 UTC
 <!--END_SECTION:waka-->
 </details>
 <details>

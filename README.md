@@ -29,10 +29,12 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 ### Projects and Dev Stuffs:
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>⚡ Github and Other Stats</b></summary>
 
 ![Grade](https://github-readme-stats.vercel.app/api?username=ssivanov19&show_icons=true&theme=radical&count_private=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssivanov19&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </details>
 <details>
   <summary><b>🐍 Contribution Graph</b></summary>

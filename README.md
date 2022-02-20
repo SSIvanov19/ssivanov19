@@ -30,12 +30,12 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 
 <details>	
   <summary><b>⚡ Github and Other Stats</b></summary>
-
-![Grade](https://github-readme-stats.vercel.app/api?username=ssivanov19&show_icons=true&theme=radical&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssivanov19&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
+  <br>
+  
  <!--START_SECTION:waka-->
+  
 ![Code Time](http://img.shields.io/badge/Code%20Time-16%20mins-blue)
-
+  
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
 **🐱 My GitHub Data** 

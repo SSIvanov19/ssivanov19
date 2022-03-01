@@ -33,9 +33,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
   <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2043%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-476-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-494-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -99,7 +97,7 @@ Windows                  1 hr 24 mins        ███████████�
 
 ```text
 C++                      9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03% 
-HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81% 
+HTML                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   22.58% 
 C#                       5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
 Dockerfile               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
 JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45%

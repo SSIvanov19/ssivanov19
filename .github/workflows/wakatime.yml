@@ -17,4 +17,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_UPDATED_DATE: "FALSE"
           SHOW_PROJECTS: "FALSE"
+          SHOW_LINES_OF_CODE: "TRUE"
           IGNORED_REPOS: "smart-house,tech-flames,braven-documentation,fire-department-2021-documnetation,chupacabra-documnetation,lathraea-rhodopaea-docs"

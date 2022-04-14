@@ -33,7 +33,9 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
   <br>
   
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2017%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -41,7 +43,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 
 > 🏆 204 Contributions in the Year 2022
  > 
-> 📦 867.7 kB Used in GitHub's Storage 
+> 📦 867.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,16 +80,16 @@ Sunday       76 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Sofia
 
 💬 Programming Languages: 
-C++                      16 hrs 26 mins      ███████████████████████░░   91.51% 
-C                        1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75% 
-Objective-C              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
+C++                      12 hrs 36 mins      ██████████████████████░░░   90.52% 
+C                        1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.57% 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49% 
+Objective-C              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
 
 🔥 Editors: 
-Visual Studio            17 hrs 58 mins      █████████████████████████   100.0%
+Visual Studio            13 hrs 55 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  17 hrs 58 mins      █████████████████████████   100.0%
+Windows                  13 hrs 55 mins      █████████████████████████   100.0%
 
 ```
 

@@ -33,6 +33,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
   <br>
   
  <!--START_SECTION:waka-->
+  
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
@@ -125,6 +126,8 @@ Dockerfile               3 repos             ██░░░░░░░░░�
 
 <details>
   <summary><b>📚 Badges</b></summary>
+  <br>
+  
   <!--START_SECTION:badges-->
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/a893b7fe-2ae4-454c-b33c-e90947b33b28 "Microsoft Certified: Azure Fundamentals")
 [![MTA: Introduction to Programming Using Python - Certified 2021](https://images.credly.com/size/110x110/images/ebfba101-5b78-49b6-903a-ac9ad518fe8a/MTA-Introduction_to_Programming_Using_Python-600x600.png)](http://www.credly.com/badges/b5ba2843-1fbd-481c-ad24-29012459b5ba "MTA: Introduction to Programming Using Python - Certified 2021")
@@ -133,6 +136,7 @@ Dockerfile               3 repos             ██░░░░░░░░░�
 [![Microsoft Word (Office 2016)](https://images.credly.com/size/110x110/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png)](http://www.credly.com/badges/e6d36159-6402-4420-ac42-45407b356dda "Microsoft Word (Office 2016)")
 [![MTA: Introduction to Programming Using JavaScript - Certified 2021](https://images.credly.com/size/110x110/images/16840ea3-5c9a-4599-853e-7e15bac7748e/MTA-Introduction_to_Programming_Using_JavaScript-600x600.png)](http://www.credly.com/badges/a6f166f2-d8e6-4890-9686-3e2721bc1123 "MTA: Introduction to Programming Using JavaScript - Certified 2021")
 <!--END_SECTION:badges-->
+  
 </details>  
 <details>	
   <summary><b>🎵 Spotify things</b></summary>
@@ -140,7 +144,7 @@ Dockerfile               3 repos             ██░░░░░░░░░�
   ![Spotify](https://novatorem-green-omega.vercel.app/api/spotify)
 </details>
 
-#
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!

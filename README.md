@@ -35,7 +35,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -43,7 +43,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 
 > 🏆 593 Contributions in the Year 2022
  > 
-> 📦 907.4 kB Used in GitHub's Storage 
+> 📦 907.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 

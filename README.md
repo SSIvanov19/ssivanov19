@@ -35,7 +35,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -80,13 +80,18 @@ Sunday       99 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Sofia
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       15 mins             ████████████░░░░░░░░░░░░░   48.4% 
+JSON                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.42% 
+Other                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
+JavaScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.17% 
+Vue.js                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.26%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            31 mins             ████████████████████████░   95.51% 
+Unknown Editor           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.49%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  32 mins             █████████████████████████   100.0%
 
 ```
 

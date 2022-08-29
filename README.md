@@ -43,7 +43,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 
 > 🏆 620 Contributions in the Year 2022
  > 
-> 📦 907.9 kB Used in GitHub's Storage 
+> 📦 907.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 

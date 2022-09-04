@@ -33,7 +33,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
   <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -89,7 +89,11 @@ JSON                     1 min               ░░░░░░░░░░░�
 Visual Studio            6 hrs 15 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 15 mins       █████████████████████████   100.0%
+LR                       4 hrs               ██████████████░░░░░░░░░░░   59.19% 
+AutoMapper               2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   30.0% 
+FileStream(path,FileMode 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
+Newtonsoft               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.98% 
+(path,FileMode           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66%
 
 ```
 

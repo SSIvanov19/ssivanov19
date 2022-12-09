@@ -129,6 +129,7 @@ Python                   4 repos             █░░░░░░░░░░�
   <br>
   
   <!--START_SECTION:badges-->
+[![App Development with Swift Certified User](https://images.credly.com/size/110x110/images/9b0ac7af-f7ac-4938-96a4-2d4805bfe23f/image.png)](http://www.credly.com/badges/1e92aafd-026b-49bf-a3cb-ac3d03375916 "App Development with Swift Certified User")
 [![App Development with Swift Associate](https://images.credly.com/size/110x110/images/d9598c1a-2f59-49b9-b7fc-a764bf23b4d5/image.png)](http://www.credly.com/badges/d0ccf816-33a7-4ec0-901b-9d0ed2b98450 "App Development with Swift Associate")
 [![IT Essentials](https://images.credly.com/size/110x110/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png)](http://www.credly.com/badges/885acfa6-6e21-46dd-81a3-d804a036279f "IT Essentials")
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/a893b7fe-2ae4-454c-b33c-e90947b33b28 "Microsoft Certified: Azure Fundamentals")

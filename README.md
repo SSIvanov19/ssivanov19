@@ -129,6 +129,10 @@ Python                   4 repos             █░░░░░░░░░░�
   <br>
   
   <!--START_SECTION:badges-->
+[![Adobe Certified Professional in Visual Design Using Adobe Photoshop](https://images.credly.com/size/110x110/images/690784d7-b971-4693-b6ea-7dc990f65544/Adobe_Certified_Professional_Adobe_Photoshop_digital_badge.png)](http://www.credly.com/badges/28eecda5-1774-4a0a-a99d-e3b7379437d5 "Adobe Certified Professional in Visual Design Using Adobe Photoshop")
+[![Adobe Certified Professional in Graphic Design & Illustration Using Adobe Illustrator](https://images.credly.com/size/110x110/images/5155ed69-ad73-45e3-831b-60507ddeb1ad/Adobe_Certified_Professional_Adobe_Illustrator_digital_badge.png)](http://www.credly.com/badges/95c2466f-c96e-4f0e-aec8-0333ccdd8657 "Adobe Certified Professional in Graphic Design & Illustration Using Adobe Illustrator")
+[![Adobe Certified Professional in Visual Design](https://images.credly.com/size/110x110/images/19d96e55-f15c-44d9-9568-43f83505bd5b/Adobe_Certified_Professional_Visual_Design_digital_badge.png)](http://www.credly.com/badges/680d9d80-8555-454b-baf1-b6f6820dfd9d "Adobe Certified Professional in Visual Design")
+[![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](http://www.credly.com/badges/7bb90ab2-d49b-47a2-8e6a-4dbc9a15ab80 "Microsoft Certified: Azure AI Fundamentals")
 [![App Development with Swift Certified User](https://images.credly.com/size/110x110/images/9b0ac7af-f7ac-4938-96a4-2d4805bfe23f/image.png)](http://www.credly.com/badges/1e92aafd-026b-49bf-a3cb-ac3d03375916 "App Development with Swift Certified User")
 [![App Development with Swift Associate](https://images.credly.com/size/110x110/images/d9598c1a-2f59-49b9-b7fc-a764bf23b4d5/image.png)](http://www.credly.com/badges/d0ccf816-33a7-4ec0-901b-9d0ed2b98450 "App Development with Swift Associate")
 [![IT Essentials](https://images.credly.com/size/110x110/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png)](http://www.credly.com/badges/885acfa6-6e21-46dd-81a3-d804a036279f "IT Essentials")

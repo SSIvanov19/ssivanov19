@@ -36,49 +36,47 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 65 Contributions in the Year 2023
+> 📦 943.4 kB Used in GitHub's Storage 
  > 
-> 📦 944.8 kB Used in GitHub's Storage 
+> 🏆 99 Contributions in the Year 2023
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 21 Public Repositories 
  > 
-> 🔑 29 Private Repositories  
+> 🔑 30 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning      189 commits       ██████░░░░░░░░░░░░░░░░░░░   27.16 % 
-🌆 Daytime      237 commits       ████████░░░░░░░░░░░░░░░░░   34.05 % 
-🌃 Evening      225 commits       ████████░░░░░░░░░░░░░░░░░   32.33 % 
-🌙 Night         45 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-
+🌞 Morning                231 commits         ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+🌆 Daytime                302 commits         ████████░░░░░░░░░░░░░░░░░   32.44 % 
+🌃 Evening                337 commits         █████████░░░░░░░░░░░░░░░░   36.20 % 
+🌙 Night                  61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday         101 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Tuesday         83 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Wednesday      130 commits       ████░░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Thursday        98 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Friday          95 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Saturday        79 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Sunday         110 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-
+Monday                   139 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Tuesday                  112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Wednesday                158 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Thursday                 121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Friday                   135 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Saturday                 126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Sunday                   140 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Sofia
+🕑︎ Time Zone: Europe/Sofia
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -88,24 +86,23 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      22 repos            ███████░░░░░░░░░░░░░░░░░░   31.43 % 
-C#                       15 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-HTML                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.57 % 
-JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-
+C++                      23 repos            ████████░░░░░░░░░░░░░░░░░   30.26 % 
+C#                       18 repos            ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+HTML                     15 repos            █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
+
 
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/SSIvanov19/SSIvanov19/main/charts/bar_graph.png) 
+![Lines of Code chart](https://raw.githubusercontent.com/SSIvanov19/SSIvanov19/main/assets/bar_graph.png)
 
 
 <!--END_SECTION:waka-->

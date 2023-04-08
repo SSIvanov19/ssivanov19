@@ -88,14 +88,14 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in C++** 
+**I Mostly Code in C#** 
 
 ```text
-C++                      27 repos            ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-C#                       26 repos            ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-HTML                     16 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+C#                       26 repos            ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+C++                      26 repos            ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+HTML                     16 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 
 

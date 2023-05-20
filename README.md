@@ -10,7 +10,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 - 🚀 &nbsp; I’m currently learning ASP.NET Core, C++ and JS.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SSIvanov19?tab=repositories).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: SSIvanov19@codingburgas.bg
+- 📫 &nbsp; How to reach me: contact@stoyan.dev
 
 ### My Absolute Favorites:
 

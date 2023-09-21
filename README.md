@@ -149,9 +149,11 @@ Dart                     3 repos             █░░░░░░░░░░�
   
 </details>  
 <details>	
-  <summary><b>🎵 Spotify things</b></summary>
+  <summary><b>🎵 Music things</b></summary>
 
   ![Spotify](https://novatorem-green-omega.vercel.app/api/spotify)
+  <br>
+  <img src="https://apple-music-readme-eight.vercel.app/?">
 </details>
 
 

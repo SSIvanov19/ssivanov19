@@ -126,6 +126,7 @@ TypeScript               7 repos             ██░░░░░░░░░�
   <br>
   
   <!--START_SECTION:badges-->
+[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/3d15ac1c-90a3-4d69-87ea-727f1f34d9fd "Introduction to Cybersecurity")
 [![MS Graph - Hack Together - Microsoft 365 & Power Platform Community 2023](https://images.credly.com/size/110x110/images/e929d1d5-d3c5-45bb-9612-ec3feeac546f/image.png)](http://www.credly.com/badges/83d3ee5e-0be8-4dd5-941a-9a3b097ad872 "MS Graph - Hack Together - Microsoft 365 & Power Platform Community 2023")
 [![[CPA-21-02] CPA – C++ Certified Associate Programmer](https://images.credly.com/size/110x110/images/b7f2b84c-4fd4-4ab6-aa48-dfa82156387e/cpa.png)](http://www.credly.com/badges/54c5a193-4334-4507-9e7e-0274ff6f5bd7 "[CPA-21-02] CPA – C++ Certified Associate Programmer")
 [![Adobe Certified Professional in Web Design](https://images.credly.com/size/110x110/images/f2c9f4ff-be70-469f-94b8-ebc52980eb95/Adobe_Certified_Professional_Web_Design_digital_badge.png)](http://www.credly.com/badges/4671ca0f-3ab3-47ff-bd84-1cd6aa59c2dc "Adobe Certified Professional in Web Design")

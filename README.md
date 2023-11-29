@@ -36,7 +36,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20million%20lines%20of%20code-blue)
 
@@ -91,11 +91,11 @@ No Activity Tracked This Week
 **I Mostly Code in C#** 
 
 ```text
-HTML                     17 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-TypeScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Python                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+HTML                     17 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+TypeScript               12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Python                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 
 

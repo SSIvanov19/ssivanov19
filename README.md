@@ -34,6 +34,8 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
   <br>
   
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2019%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.5%20million%20lines%20of%20code-blue)
@@ -42,7 +44,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 410 Contributions in the Year 2023
+> 🏆 412 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -50,6 +52,42 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
  > 
 > 🔑 37 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                951 commits         ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+🌆 Daytime                1097 commits        ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+🌃 Evening                1641 commits        ██████████░░░░░░░░░░░░░░░   41.36 % 
+🌙 Night                  279 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   660 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Tuesday                  461 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Wednesday                677 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Thursday                 411 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Friday                   807 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Saturday                 443 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Sunday                   509 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Sofia
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C#** 
 
 ```text

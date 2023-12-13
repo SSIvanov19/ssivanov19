@@ -34,7 +34,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
   <br>
   
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.5%20million%20lines%20of%20code-blue)
 
@@ -42,58 +42,22 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 414 Contributions in the Year 2023
+> 🏆 419 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 37 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                953 commits         ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-🌆 Daytime                1101 commits        ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-🌃 Evening                1642 commits        ██████████░░░░░░░░░░░░░░░   41.31 % 
-🌙 Night                  279 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   667 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Tuesday                  461 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Wednesday                677 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Thursday                 411 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Friday                   807 commits         █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-Saturday                 443 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Sunday                   509 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Sofia
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C#** 
 
 ```text
-HTML                     17 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-TypeScript               12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Python                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+C#                       30 repos            ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+TypeScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Python                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 
 

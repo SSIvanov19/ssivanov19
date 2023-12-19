@@ -126,6 +126,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
   <br>
   
   <!--START_SECTION:badges-->
+[![Networking Academy Learn-A-Thon 2023](https://images.credly.com/size/110x110/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png)](http://www.credly.com/badges/22062cda-4966-4980-b020-7b77aa929f75 "Networking Academy Learn-A-Thon 2023")
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/3d15ac1c-90a3-4d69-87ea-727f1f34d9fd "Introduction to Cybersecurity")
 [![MS Graph - Hack Together - Microsoft 365 & Power Platform Community 2023](https://images.credly.com/size/110x110/images/e929d1d5-d3c5-45bb-9612-ec3feeac546f/image.png)](http://www.credly.com/badges/83d3ee5e-0be8-4dd5-941a-9a3b097ad872 "MS Graph - Hack Together - Microsoft 365 & Power Platform Community 2023")
 [![[CPA-21-02] CPA – C++ Certified Associate Programmer](https://images.credly.com/size/110x110/images/b7f2b84c-4fd4-4ab6-aa48-dfa82156387e/cpa.png)](http://www.credly.com/badges/54c5a193-4334-4507-9e7e-0274ff6f5bd7 "[CPA-21-02] CPA – C++ Certified Associate Programmer")

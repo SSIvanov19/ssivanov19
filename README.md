@@ -133,6 +133,8 @@ Vue                      1 repo              ░░░░░░░░░░░�
   <br>
   
   <!--START_SECTION:badges-->
+[![Cisco Certified Support Technician Cybersecurity](https://images.credly.com/size/110x110/images/daf36702-99d0-4ebb-9788-ba7ac797cc8e/image.png)](http://www.credly.com/badges/f3d574c0-39cf-417e-9afe-dcd1df467e3b "Cisco Certified Support Technician Cybersecurity")
+[![Cisco Certified Support Technician Networking](https://images.credly.com/size/110x110/images/57d88bab-75be-4400-a2fd-dbfa8e2b056e/image.png)](http://www.credly.com/badges/e9962cce-56eb-4437-bf24-9e09047a6c67 "Cisco Certified Support Technician Networking")
 [![PMI Project Management Ready™](https://images.credly.com/size/110x110/images/9b8fb967-078b-4cc0-9e98-617b3ad4d2f4/PMI-PMR_Badge.png)](http://www.credly.com/badges/d7247adc-5056-4f59-8253-9fd87c3603de "PMI Project Management Ready™")
 [![IT Specialist - Cloud Computing](https://images.credly.com/size/110x110/images/86bff777-939c-42c5-9a09-44b9bf635eba/_ITS-Badges-Cloud-Comput.png)](http://www.credly.com/badges/dd573cfa-7b07-4d06-9e09-61991b3e5c2c "IT Specialist - Cloud Computing")
 [![IT Specialist - Software Development](https://images.credly.com/size/110x110/images/267a8b92-df48-41f1-9473-a0dae752310e/ITS-Badges_Software-Development_1200px.png)](http://www.credly.com/badges/7d54a583-90af-434c-b868-ef4645bd983c "IT Specialist - Software Development")

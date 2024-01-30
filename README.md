@@ -34,7 +34,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
   <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 

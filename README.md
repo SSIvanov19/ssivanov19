@@ -36,7 +36,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.4%20million%20lines%20of%20code-blue)
 
@@ -79,15 +79,15 @@ Sunday                   478 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Sofia
 
 💬 Programming Languages: 
-TypeScript               3 hrs 58 mins       ███████████████████████░░   93.15 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+TypeScript               2 hrs 28 mins       ██████████████████████░░░   89.40 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 

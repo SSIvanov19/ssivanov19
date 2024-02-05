@@ -79,15 +79,13 @@ Sunday                   478 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Sofia
 
 💬 Programming Languages: 
-TypeScript               2 hrs 28 mins       ██████████████████████░░░   89.40 % 
-JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 45 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 45 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 

@@ -131,6 +131,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
   <br>
   
   <!--START_SECTION:badges-->
+[![Network Security Support Technician](https://images.credly.com/size/110x110/images/25a0a5f5-56db-4560-8549-14889b105db2/image.png)](http://www.credly.com/badges/aea376ad-6e49-4562-b72d-f214a6be5b0f "Network Security Support Technician")
 [![Cisco Certified Support Technician Cybersecurity (CCST Cybersecurity)](https://images.credly.com/size/110x110/images/daf36702-99d0-4ebb-9788-ba7ac797cc8e/image.png)](http://www.credly.com/badges/f3d574c0-39cf-417e-9afe-dcd1df467e3b "Cisco Certified Support Technician Cybersecurity (CCST Cybersecurity)")
 [![Cisco Certified Support Technician Networking (CCST Networking)](https://images.credly.com/size/110x110/images/57d88bab-75be-4400-a2fd-dbfa8e2b056e/image.png)](http://www.credly.com/badges/e9962cce-56eb-4437-bf24-9e09047a6c67 "Cisco Certified Support Technician Networking (CCST Networking)")
 [![PMI Project Management Ready™](https://images.credly.com/size/110x110/images/9b8fb967-078b-4cc0-9e98-617b3ad4d2f4/PMI-PMR_Badge.png)](http://www.credly.com/badges/d7247adc-5056-4f59-8253-9fd87c3603de "PMI Project Management Ready™")

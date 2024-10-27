@@ -44,13 +44,13 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 235 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
 > 📜 30 Public Repositories 
  > 
-> 🔑 41 Private Repositories 
+> 🔑 42 Private Repositories 
  > 
 **I'm an Early 🐤** 
 

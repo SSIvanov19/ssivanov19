@@ -131,6 +131,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
   <br>
   
   <!--START_SECTION:badges-->
+[![Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)](https://images.credly.com/size/110x110/images/af151b3d-9453-48a8-8d22-5b9fc54d2b43/image.png)](http://www.credly.com/badges/819dcebe-9f36-4c82-b362-6d93a132300c "Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)")
 [![Network Security Support Technician](https://images.credly.com/size/110x110/images/25a0a5f5-56db-4560-8549-14889b105db2/image.png)](http://www.credly.com/badges/aea376ad-6e49-4562-b72d-f214a6be5b0f "Network Security Support Technician")
 [![Cisco Certified Support Technician Cybersecurity (CCST Cybersecurity)](https://images.credly.com/size/110x110/images/daf36702-99d0-4ebb-9788-ba7ac797cc8e/image.png)](http://www.credly.com/badges/b7a4a6ae-1f8f-4d90-8c6f-154133501596 "Cisco Certified Support Technician Cybersecurity (CCST Cybersecurity)")
 [![Cisco Certified Support Technician Networking (CCST Networking)](https://images.credly.com/size/110x110/images/57d88bab-75be-4400-a2fd-dbfa8e2b056e/image.png)](http://www.credly.com/badges/af20fe80-2ac8-48cf-a665-5d6c9d8256db "Cisco Certified Support Technician Networking (CCST Networking)")

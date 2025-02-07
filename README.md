@@ -44,7 +44,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 146 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 

@@ -34,8 +34,6 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
   <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2027%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.7%20million%20lines%20of%20code-blue)
@@ -52,42 +50,6 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
  > 
 > 🔑 45 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                954 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-🌆 Daytime                1932 commits        ██████████░░░░░░░░░░░░░░░   38.72 % 
-🌃 Evening                1786 commits        █████████░░░░░░░░░░░░░░░░   35.79 % 
-🌙 Night                  318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   707 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Tuesday                  725 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Wednesday                732 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Thursday                 542 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Friday                   755 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Saturday                 628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Sunday                   901 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Sofia
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C#** 
 
 ```text

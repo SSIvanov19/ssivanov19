@@ -34,7 +34,9 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
   <br>
   
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2027%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.8%20million%20lines%20of%20code-blue)
 
@@ -42,7 +44,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,161 Contributions in the Year 2025
+> 🏆 1,170 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -50,14 +52,50 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
  > 
 > 🔑 45 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                991 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+🌆 Daytime                2008 commits        ██████████░░░░░░░░░░░░░░░   38.85 % 
+🌃 Evening                1849 commits        █████████░░░░░░░░░░░░░░░░   35.78 % 
+🌙 Night                  320 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   748 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Tuesday                  738 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Wednesday                770 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Thursday                 583 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Friday                   769 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Saturday                 631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Sunday                   929 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Sofia
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C#** 
 
 ```text
-TypeScript               25 repos            █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-C++                      24 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-HTML                     17 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+TypeScript               26 repos            █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+C++                      24 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+HTML                     17 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 ```
 
 

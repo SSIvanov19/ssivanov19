@@ -38,7 +38,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.12%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 

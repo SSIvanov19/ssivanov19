@@ -34,11 +34,9 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
   <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2027%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.12%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.97%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -52,42 +50,6 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
  > 
 > 🔑 46 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1065 commits        █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-🌆 Daytime                2219 commits        ██████████░░░░░░░░░░░░░░░   39.52 % 
-🌃 Evening                1995 commits        █████████░░░░░░░░░░░░░░░░   35.53 % 
-🌙 Night                  336 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   814 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Tuesday                  821 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Wednesday                886 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Thursday                 633 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Friday                   822 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Saturday                 676 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Sunday                   963 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Sofia
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C#** 
 
 ```text

@@ -34,15 +34,17 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
   <br>
   
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2027%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.00%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.00%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2026
+> 🏆 4 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -50,6 +52,42 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
  > 
 > 🔑 46 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1058 commits        █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+🌆 Daytime                2186 commits        ██████████░░░░░░░░░░░░░░░   39.39 % 
+🌃 Evening                1969 commits        █████████░░░░░░░░░░░░░░░░   35.48 % 
+🌙 Night                  336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   804 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Tuesday                  809 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Wednesday                880 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Thursday                 632 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Friday                   814 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Saturday                 664 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Sunday                   946 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Sofia
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C#** 
 
 ```text

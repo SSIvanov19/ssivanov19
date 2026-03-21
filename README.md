@@ -38,7 +38,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.69%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.91%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -56,9 +56,9 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 
 ```text
 🌞 Morning                1605 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-🌆 Daytime                3959 commits        ███████████░░░░░░░░░░░░░░   44.11 % 
-🌃 Evening                2997 commits        ████████░░░░░░░░░░░░░░░░░   33.39 % 
-🌙 Night                  414 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+🌆 Daytime                3959 commits        ███████████░░░░░░░░░░░░░░   44.09 % 
+🌃 Evening                2997 commits        ████████░░░░░░░░░░░░░░░░░   33.38 % 
+🌙 Night                  418 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
@@ -66,10 +66,10 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 Monday                   1271 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
 Tuesday                  1482 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
 Wednesday                1605 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Thursday                 1058 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Thursday                 1058 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
 Friday                   1307 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
 Saturday                 947 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Sunday                   1305 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Sunday                   1309 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 ```
 
 

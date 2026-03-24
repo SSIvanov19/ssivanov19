@@ -55,21 +55,21 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1634 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-🌆 Daytime                4075 commits        ███████████░░░░░░░░░░░░░░   44.43 % 
-🌃 Evening                3042 commits        ████████░░░░░░░░░░░░░░░░░   33.17 % 
-🌙 Night                  421 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+🌞 Morning                1632 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+🌆 Daytime                4073 commits        ███████████░░░░░░░░░░░░░░   44.52 % 
+🌃 Evening                3028 commits        ████████░░░░░░░░░░░░░░░░░   33.10 % 
+🌙 Night                  416 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1316 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Tuesday                  1519 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Wednesday                1655 commits        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Thursday                 1077 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Friday                   1328 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Saturday                 962 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Sunday                   1315 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Monday                   1313 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Tuesday                  1517 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Wednesday                1652 commits        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Thursday                 1078 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Friday                   1324 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Saturday                 954 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Sunday                   1311 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
 ```
 
 
@@ -91,11 +91,11 @@ No Activity Tracked This Week
 **I Mostly Code in C#** 
 
 ```text
-TypeScript               35 repos            ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-C++                      24 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-HTML                     18 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+TypeScript               35 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+C++                      24 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+HTML                     18 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 
 

@@ -38,7 +38,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.42%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.54%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -57,19 +57,19 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 ```text
 🌞 Morning                1799 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
 🌆 Daytime                4583 commits        ███████████░░░░░░░░░░░░░░   44.76 % 
-🌃 Evening                3414 commits        ████████░░░░░░░░░░░░░░░░░   33.35 % 
-🌙 Night                  442 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+🌃 Evening                3414 commits        ████████░░░░░░░░░░░░░░░░░   33.34 % 
+🌙 Night                  444 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   1506 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Tuesday                  1739 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Wednesday                1865 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Tuesday                  1739 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Wednesday                1865 commits        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
 Thursday                 1162 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
 Friday                   1423 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
 Saturday                 1079 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Sunday                   1464 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Sunday                   1466 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
 ```
 
 

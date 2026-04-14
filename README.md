@@ -36,9 +36,9 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2027%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.40%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.52%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -55,21 +55,21 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🎓, who is 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1848 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-🌆 Daytime                4744 commits        ███████████░░░░░░░░░░░░░░   45.01 % 
-🌃 Evening                3497 commits        ████████░░░░░░░░░░░░░░░░░   33.18 % 
-🌙 Night                  452 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+🌞 Morning                1847 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+🌆 Daytime                4763 commits        ███████████░░░░░░░░░░░░░░   45.07 % 
+🌃 Evening                3505 commits        ████████░░░░░░░░░░░░░░░░░   33.17 % 
+🌙 Night                  452 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1515 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Tuesday                  1833 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Wednesday                1986 commits        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Thursday                 1232 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Friday                   1424 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Saturday                 1073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Sunday                   1478 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Monday                   1522 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Tuesday                  1834 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Wednesday                1994 commits        █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Thursday                 1233 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Friday                   1429 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Saturday                 1075 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Sunday                   1480 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
 ```
 
 
@@ -91,11 +91,11 @@ No Activity Tracked This Week
 **I Mostly Code in C#** 
 
 ```text
-TypeScript               33 repos            ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-C++                      24 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-HTML                     18 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+TypeScript               33 repos            ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+C++                      24 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+HTML                     18 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 ```
 
 

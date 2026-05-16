@@ -31,9 +31,11 @@ I build production systems end-to-end: backend architecture, cloud infrastructur
   <br>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2027%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.47%20million%20lines%20of%20code-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.08%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,6 +49,42 @@ I build production systems end-to-end: backend architecture, cloud infrastructur
  > 
 > 🔑 48 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2072 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+🌆 Daytime                5374 commits        ███████████░░░░░░░░░░░░░░   45.22 % 
+🌃 Evening                3949 commits        ████████░░░░░░░░░░░░░░░░░   33.23 % 
+🌙 Night                  490 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   1697 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Tuesday                  2124 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+Wednesday                2322 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Thursday                 1504 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Friday                   1598 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Saturday                 1068 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Sunday                   1572 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Sofia
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text

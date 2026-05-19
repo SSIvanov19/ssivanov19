@@ -31,15 +31,17 @@ I build production systems end-to-end: backend architecture, cloud infrastructur
   <br>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2027%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.47%20million%20lines%20of%20code-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.60%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 430 Contributions in the Year 2026
+> 🏆 432 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -47,6 +49,42 @@ I build production systems end-to-end: backend architecture, cloud infrastructur
  > 
 > 🔑 48 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2088 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+🌆 Daytime                5499 commits        ███████████░░░░░░░░░░░░░░   45.37 % 
+🌃 Evening                4038 commits        ████████░░░░░░░░░░░░░░░░░   33.32 % 
+🌙 Night                  495 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   1731 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Tuesday                  2142 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Wednesday                2378 commits        █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Thursday                 1541 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Friday                   1633 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Saturday                 1096 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Sunday                   1599 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Sofia
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text

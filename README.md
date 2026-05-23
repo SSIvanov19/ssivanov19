@@ -33,7 +33,7 @@ I build production systems end-to-end: backend architecture, cloud infrastructur
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.74%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.96%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,42 +47,6 @@ I build production systems end-to-end: backend architecture, cloud infrastructur
  > 
 > 🔑 48 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2101 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-🌆 Daytime                5565 commits        ███████████░░░░░░░░░░░░░░   45.52 % 
-🌃 Evening                4065 commits        ████████░░░░░░░░░░░░░░░░░   33.25 % 
-🌙 Night                  495 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1742 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Tuesday                  2185 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-Wednesday                2385 commits        █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Thursday                 1543 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Friday                   1641 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Saturday                 1114 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Sunday                   1616 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Sofia
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text

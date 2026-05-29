@@ -31,11 +31,9 @@ I build production systems end-to-end: backend architecture, cloud infrastructur
   <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2027%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.84%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.01%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -49,42 +47,6 @@ I build production systems end-to-end: backend architecture, cloud infrastructur
  > 
 > 🔑 48 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2139 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-🌆 Daytime                5664 commits        ███████████░░░░░░░░░░░░░░   45.46 % 
-🌃 Evening                4153 commits        ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌙 Night                  504 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1789 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Tuesday                  2214 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Wednesday                2441 commits        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Thursday                 1578 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Friday                   1669 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Saturday                 1131 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Sunday                   1638 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Sofia
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text

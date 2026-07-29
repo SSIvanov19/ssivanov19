@@ -31,15 +31,17 @@ I build production systems end-to-end: backend architecture, cloud infrastructur
   <br>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2025%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.89%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.90%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 795 Contributions in the Year 2026
+> 🏆 1,292 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -47,14 +49,56 @@ I build production systems end-to-end: backend architecture, cloud infrastructur
  > 
 > 🔑 53 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2446 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+🌆 Daytime                6575 commits        ███████████░░░░░░░░░░░░░░   45.40 % 
+🌃 Evening                4786 commits        ████████░░░░░░░░░░░░░░░░░   33.05 % 
+🌙 Night                  676 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   2088 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Tuesday                  2471 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Wednesday                2795 commits        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Thursday                 1865 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Friday                   1843 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Saturday                 1467 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Sunday                   1954 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Sofia
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               40 repos            ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-C++                      23 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-HTML                     14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Jupyter Notebook         2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+TypeScript               41 repos            ███████░░░░░░░░░░░░░░░░░░   26.28 % 
+C++                      23 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+HTML                     14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Jupyter Notebook         2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 
 

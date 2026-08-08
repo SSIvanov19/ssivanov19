@@ -31,6 +31,8 @@ I build production systems end-to-end: backend architecture, cloud infrastructur
   <br>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2025%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.79%20million%20lines%20of%20code-blue?style=flat)
@@ -39,7 +41,7 @@ I build production systems end-to-end: backend architecture, cloud infrastructur
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,801 Contributions in the Year 2026
+> 🏆 1,808 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -47,6 +49,48 @@ I build production systems end-to-end: backend architecture, cloud infrastructur
  > 
 > 🔑 53 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3681 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+🌆 Daytime                10892 commits       ███████████░░░░░░░░░░░░░░   42.70 % 
+🌃 Evening                9694 commits        ██████████░░░░░░░░░░░░░░░   38.00 % 
+🌙 Night                  1244 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   3969 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Tuesday                  3736 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Wednesday                5159 commits        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Thursday                 3120 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Friday                   2891 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Saturday                 1704 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Sunday                   4932 commits        █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Sofia
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text

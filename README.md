@@ -35,13 +35,13 @@ I build production systems end-to-end: backend architecture, cloud infrastructur
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-180.50%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-180.76%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 2,391 Contributions in the Year 2026
+> 🏆 2,401 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -52,21 +52,21 @@ I build production systems end-to-end: backend architecture, cloud infrastructur
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12171 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-🌆 Daytime                26715 commits       █████████░░░░░░░░░░░░░░░░   36.98 % 
-🌃 Evening                25410 commits       █████████░░░░░░░░░░░░░░░░   35.17 % 
-🌙 Night                  7946 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+🌞 Morning                12190 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+🌆 Daytime                26737 commits       █████████░░░░░░░░░░░░░░░░   36.96 % 
+🌃 Evening                25456 commits       █████████░░░░░░░░░░░░░░░░   35.19 % 
+🌙 Night                  7962 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   13546 commits       █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Tuesday                  9927 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Wednesday                12607 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Thursday                 9619 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Friday                   6514 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Saturday                 6936 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Sunday                   13093 commits       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Monday                   13595 commits       █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Tuesday                  9957 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Wednesday                12613 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Thursday                 9619 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Friday                   6514 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Saturday                 6938 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Sunday                   13109 commits       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
 ```
 
 
@@ -96,8 +96,8 @@ No AI Coding Activity Tracked This Week
 ```text
 TypeScript               44 repos            ███████░░░░░░░░░░░░░░░░░░   29.14 % 
 C#                       30 repos            █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Python                   8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Shell                    3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+HTML                     14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Python                   9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 Jupyter Notebook         2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
 
